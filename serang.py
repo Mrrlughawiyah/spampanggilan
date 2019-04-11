@@ -10,8 +10,8 @@ subprocess.call("clear", shell=True)
 
 banner = """
                   |------#FFFFFF----
-                  |█████████#FF0700|
-                  |█████████|#FFFFFF
+                  |#FF0700|
+                  |#FFFFFF|
                   |-----#FFFFFF-----
                   |#FFFFFF
                   |#FFFFFF
