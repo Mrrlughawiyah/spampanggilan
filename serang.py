@@ -10,7 +10,7 @@ subprocess.call("clear", shell=True)
 
 banner = """
       
- ____                         ____ _ _
+ ____                         ____      _ _
 / ___| _ __   __ _  _ __ __  / ___|__ _| | |
 \___ \| '_ \ / _` | '_ ` _ \| |   / _` | | |        ___) | |_) | (_| | | | | | | |__| (_| | | |
 |____/| .__/ \__,_|_| |_| |_|\____\__,_|_|_|
@@ -21,12 +21,12 @@ ________________________________________________
           [+] GRAB CALL SPAMMER [+]
 
  Coded by   : Mrrlughawiyah
- Blogspot    : http://bit.ly/2Uf1fLK
- WhatsApp : 087875061948
+ Blogspot   : http://bit.ly/2Uf1fLK
+ WhatsApp   : 087875061948
  YouTube    : http://bit.ly/2Fu5pKn
- Versi     : 3.0
- Pendukung : dhen
- Update    : 12-April-2019
+ Versi      : 3.0
+ Pendukung  : dhen
+ Update     : 12-April-2019
 """
 
 x = 0
